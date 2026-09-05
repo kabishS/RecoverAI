@@ -1,0 +1,28 @@
+{
+  "name": "recover-ai",
+  "version": "1.0.0",
+  "description": "RecoverAI - AI-Powered Autonomous Revenue Recovery Agent",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "revenue-recovery",
+    "ai-agent",
+    "groq",
+    "razorpay",
+    "fintech",
+    "hackathon"
+  ],
+  "author": "RecoverAI Team",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "groq-sdk": "^0.3.3",
+    "razorpay": "^2.9.4"
+  }
+}
+
