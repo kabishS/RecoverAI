@@ -101,16 +101,3 @@ RecoverAI/
 
 ## 🌐 Deploy to Render
 
-1. Push this repository to GitHub / GitLab.
-2. Log into [Render](https://render.com/) and click **New + Web Service**.
-3. Connect your repository.
-4. Render will automatically detect `render.yaml` or use:
-   - **Environment**: Node
-   - **Build Command**: `npm install`
-   - **Start Command**: `npm start`
-5. Add the Environment Variables:
-   - `GROQ_API_KEY`
-   - `RAZORPAY_KEY_ID`
-   - `RAZORPAY_KEY_SECRET`
-6. Deploy!
-
