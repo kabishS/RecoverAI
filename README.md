@@ -96,5 +96,3 @@ RecoverAI/
         ├── demo-simulation.js # 100-txn batch recovery simulation runner
         └── app.js             # View router & interactive UI controllers
 ```
-
----
